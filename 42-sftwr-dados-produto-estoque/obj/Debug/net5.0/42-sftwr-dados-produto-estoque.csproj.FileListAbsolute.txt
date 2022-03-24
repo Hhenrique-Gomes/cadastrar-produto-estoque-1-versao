@@ -1,0 +1,16 @@
+C:\Users\Henri\OneDrive\Área de Trabalho\C Sharp #\Seção 4\42-sftwr-dados-produto-estoque\42-sftwr-dados-produto-estoque\bin\Debug\net5.0\42-sftwr-dados-produto-estoque.exe
+C:\Users\Henri\OneDrive\Área de Trabalho\C Sharp #\Seção 4\42-sftwr-dados-produto-estoque\42-sftwr-dados-produto-estoque\bin\Debug\net5.0\42-sftwr-dados-produto-estoque.deps.json
+C:\Users\Henri\OneDrive\Área de Trabalho\C Sharp #\Seção 4\42-sftwr-dados-produto-estoque\42-sftwr-dados-produto-estoque\bin\Debug\net5.0\42-sftwr-dados-produto-estoque.runtimeconfig.json
+C:\Users\Henri\OneDrive\Área de Trabalho\C Sharp #\Seção 4\42-sftwr-dados-produto-estoque\42-sftwr-dados-produto-estoque\bin\Debug\net5.0\42-sftwr-dados-produto-estoque.runtimeconfig.dev.json
+C:\Users\Henri\OneDrive\Área de Trabalho\C Sharp #\Seção 4\42-sftwr-dados-produto-estoque\42-sftwr-dados-produto-estoque\bin\Debug\net5.0\42-sftwr-dados-produto-estoque.dll
+C:\Users\Henri\OneDrive\Área de Trabalho\C Sharp #\Seção 4\42-sftwr-dados-produto-estoque\42-sftwr-dados-produto-estoque\bin\Debug\net5.0\ref\42-sftwr-dados-produto-estoque.dll
+C:\Users\Henri\OneDrive\Área de Trabalho\C Sharp #\Seção 4\42-sftwr-dados-produto-estoque\42-sftwr-dados-produto-estoque\bin\Debug\net5.0\42-sftwr-dados-produto-estoque.pdb
+C:\Users\Henri\OneDrive\Área de Trabalho\C Sharp #\Seção 4\42-sftwr-dados-produto-estoque\42-sftwr-dados-produto-estoque\obj\Debug\net5.0\42-sftwr-dados-produto-estoque.csprojAssemblyReference.cache
+C:\Users\Henri\OneDrive\Área de Trabalho\C Sharp #\Seção 4\42-sftwr-dados-produto-estoque\42-sftwr-dados-produto-estoque\obj\Debug\net5.0\42-sftwr-dados-produto-estoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henri\OneDrive\Área de Trabalho\C Sharp #\Seção 4\42-sftwr-dados-produto-estoque\42-sftwr-dados-produto-estoque\obj\Debug\net5.0\42-sftwr-dados-produto-estoque.AssemblyInfoInputs.cache
+C:\Users\Henri\OneDrive\Área de Trabalho\C Sharp #\Seção 4\42-sftwr-dados-produto-estoque\42-sftwr-dados-produto-estoque\obj\Debug\net5.0\42-sftwr-dados-produto-estoque.AssemblyInfo.cs
+C:\Users\Henri\OneDrive\Área de Trabalho\C Sharp #\Seção 4\42-sftwr-dados-produto-estoque\42-sftwr-dados-produto-estoque\obj\Debug\net5.0\42-sftwr-dados-produto-estoque.csproj.CoreCompileInputs.cache
+C:\Users\Henri\OneDrive\Área de Trabalho\C Sharp #\Seção 4\42-sftwr-dados-produto-estoque\42-sftwr-dados-produto-estoque\obj\Debug\net5.0\42-sftwr-dados-produto-estoque.dll
+C:\Users\Henri\OneDrive\Área de Trabalho\C Sharp #\Seção 4\42-sftwr-dados-produto-estoque\42-sftwr-dados-produto-estoque\obj\Debug\net5.0\ref\42-sftwr-dados-produto-estoque.dll
+C:\Users\Henri\OneDrive\Área de Trabalho\C Sharp #\Seção 4\42-sftwr-dados-produto-estoque\42-sftwr-dados-produto-estoque\obj\Debug\net5.0\42-sftwr-dados-produto-estoque.pdb
+C:\Users\Henri\OneDrive\Área de Trabalho\C Sharp #\Seção 4\42-sftwr-dados-produto-estoque\42-sftwr-dados-produto-estoque\obj\Debug\net5.0\42-sftwr-dados-produto-estoque.genruntimeconfig.cache
